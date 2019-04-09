@@ -7,4 +7,3 @@ public extension Learner {
       public init() {}
     }
 }
-
